@@ -1,6 +1,6 @@
 # Bloody mary
 
-Идеально подойдет как Welcome drink, как Goodby drink, как Goodmorning drink, и не только.  
+Идеально подойдет как Welcome drink, как Goodbye drink, как Goodmorning drink, и не только.  
 Коктейль состоит из 2-х частей: **Водка** и **Микс**.  
 Граммовки указаны где-то для 4-х литров продукта =) 
 
