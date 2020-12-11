@@ -1,4 +1,4 @@
-# Blody mary
+# Bloody mary
 
 Идеально подойдет как Welcome drink, как Goodby drink, как Goodmorning drink, и не только.  
 Коктейль состоит из 2-х частей: **Водка** и **Микс**.  
@@ -40,4 +40,4 @@
 В бокал со льдом наливаем продукт и вуаля.  
 Можно на шпажке добавить каких-нибудь солений: корнишоны, зародыши лучка, оливки и тд.
 
-<img src="pics/blody mary.png" alt="blody mary" style="zoom:67%;" />
+<img src="pics/bloody mary.png" alt="blody mary" style="zoom:67%;" />
