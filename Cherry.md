@@ -25,5 +25,5 @@
 
 Напиток подается в рюмках, которые можно предварительно засунуть на пол часика в морозиловку.    
   
-Enjoy!
-<img src="pics/cherry.jpg" alt="cherry""/>
+Enjoy!  
+<img src="pics/cherry.jpg" alt="cherry"/>
