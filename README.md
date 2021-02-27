@@ -6,4 +6,4 @@
 
 * [44](https://github.com/danila-initiative/cocktailbook/blob/main/44.md) (**Far Rockaway/Far Bar**)
   
-* [Cherry](https://github.com/danila-initiative/cocktailbook/blob/main/Сherry.md) (**Saxon+Parole**)
+* [Cherry](https://github.com/danila-initiative/cocktailbook/blob/main/Cherry.md) (**Saxon+Parole**)
