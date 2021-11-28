@@ -43,4 +43,4 @@
 В бокал со льдом наливаем продукт и вуаля.  
 Можно на шпажке добавить каких-нибудь солений: корнишоны, зародыши лучка, оливки и тд.
 
-<img src="pics/bloody mary.png" alt="blody mary" style="zoom:30%;" />
+<img src="pics/bloody mary.png" alt="blody mary" style="zoom:10%;" />
