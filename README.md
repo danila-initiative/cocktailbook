@@ -2,8 +2,8 @@
 
 Рецепты топовых коктейли и настоек из лучших домов Москвы и не только.
 
-* [Bloody mary](https://github.com/danila-initiative/cocktailbook/blob/main/bloody%20mary.md)  (**Far Rockaway/Far Bar**)
+* [Bloody mary](https://danila-initiative.github.io/cocktailbook/bloody_mary.html)  (**Far Rockaway/Far Bar**)
 
-* [44](https://danila-initiative.github.io/cocktailbook/44.md) (**Far Rockaway/Far Bar**)
+* [44](https://danila-initiative.github.io/cocktailbook/44.html) (**Far Rockaway/Far Bar**)
   
-* [Cherry](https://github.com/danila-initiative/cocktailbook/blob/main/Cherry.md) (**Saxon+Parole**)
+* [Cherry](https://danila-initiative.github.io/cocktailbook/Cherry.html) (**Saxon+Parole**)
